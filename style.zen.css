@@ -1,0 +1,34 @@
+
+
+/* Color Theme Swatches in Hex */
+/*
+.Happy-2025-1-hex { color: #3E4001; }
+.background { color: #898C23; }
+.Happy-2025-3-hex { color: #F2F2F2; }
+.Happy-2025-4-hex { color: #8C8C8C; }
+.color { color: #0D0D0D; }
+*/
+
+html { 
+    background-color:  #898C23;
+    color:#0D0D0D;
+
+    font-size: 21PX;
+    font-family: sans-serif;
+  }
+
+p {
+    text-indent: 1em;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 { font-size: 1.8rem;}
+h2 { font-size: 1.4rem;}
+h3 { font-size: 1.2rem;}
+
+.summary { text-align: center;}
+.main p { line-height: 1.5;}
+abbr {font-variant: small-caps;}
